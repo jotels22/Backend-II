@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Manzanas",
+    "description": "Frescas manzanas de Viedma",
+    "price": 30,
+    "thumbnail": "",
+    "code": "-",
+    "stock": 55,
+    "id": 1
+  },
+  {
+    "title": "Naranjas",
+    "description": "Jugosas Naranjas neuquinas",
+    "price": 70,
+    "thumbnail": "",
+    "code": "eeee",
+    "stock": 54,
+    "id": 2
+  },
+  {
+    "title": "Naranjas",
+    "description": "Jugosas Naranjas neuquinas",
+    "price": 70,
+    "thumbnail": "",
+    "code": "-",
+    "stock": 54,
+    "id": 3
+  },
+  {
+    "title": "Naranjas",
+    "description": "Jugosas Naranjas neuquinas",
+    "price": 70,
+    "thumbnail": "",
+    "code": "-",
+    "stock": 54,
+    "id": 4
+  },
+  {
+    "title": "Naranjas",
+    "description": "Jugosas Naranjas neuquinas",
+    "price": 70,
+    "thumbnail": "",
+    "code": "-",
+    "stock": 54,
+    "id": 5
+  },
+  {
+    "title": "Naranjas",
+    "description": "Jugosas Naranjas neuquinas",
+    "price": 70,
+    "thumbnail": "",
+    "code": "-",
+    "stock": 54,
+    "id": 6
+  },
+  {
+    "title": "Naranjas",
+    "description": "Jugosas Naranjas neuquinas",
+    "price": 70,
+    "thumbnail": "",
+    "code": "-",
+    "stock": 54,
+    "id": 7
+  },
+  {
+    "title": "Naranjas",
+    "description": "Jugosas Naranjas neuquinas",
+    "price": 70,
+    "thumbnail": "",
+    "code": "-",
+    "stock": 54,
+    "id": 8
+  },
+  {
+    "title": "Naranjas",
+    "description": "Jugosas Naranjas neuquinas",
+    "price": 70,
+    "thumbnail": "",
+    "code": "-",
+    "stock": 54,
+    "id": 9
+  },
+  {
+    "title": "Naranjas",
+    "description": "Jugosas Naranjas neuquinas",
+    "price": 70,
+    "thumbnail": "",
+    "code": "-",
+    "stock": 54,
+    "id": 10
+  }
+]
